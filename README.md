@@ -1,2 +1,8 @@
-# CS-250-Repository
-Work from CS-250 Software Development Lifecycle SNHU
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs begins with actively listening to stakeholders, understanding their requirements, and identifying the key problems they want to solve. I then translate these needs into user stories, which describe the desired functionality from the user's perspective. User stories help by breaking down complex requirements into smaller, manageable tasks that focus on delivering value. They keep the team aligned on the user’s goals and priorities, ensuring that the program meets their expectations.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I approach program development iteratively, focusing on delivering small increments of functionality while continuously seeking feedback. Agile processes such as sprint planning, daily standups, and retrospectives help me stay organized and improve over time. I also value techniques like backlog grooming and prioritization to ensure that the most critical tasks are addressed first. In my future work, I hope to incorporate these processes to maintain flexibility, adapt to changing requirements, and consistently deliver value.
+
+What does it mean to be a good team member in software development?
+Being a good team member in software development means contributing to the team’s goals while fostering a collaborative environment. It involves clear and respectful communication, actively participating in discussions, and being open to feedback. A good team member also supports others by sharing knowledge, addressing challenges together, and staying committed to the team’s success. Ultimately, it’s about building trust and ensuring that everyone’s efforts align toward delivering a quality product.
